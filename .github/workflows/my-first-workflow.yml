@@ -38,3 +38,6 @@ jobs:
 
     - name: Print a message
       run: echo "Hello, world!"
+
+    - name: Hello GitHub CI
+      run: echo "Hello GitHub CI"
